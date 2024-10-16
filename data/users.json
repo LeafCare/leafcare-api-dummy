@@ -1,0 +1,10 @@
+{
+  "1c00b485-7a4d-42af-94bc-c4d6e1e54353": {
+    "first_name": "Johnny",
+    "last_name": "Doe",
+    "email": "johndoe@example.com",
+    "password": "Pass1111",
+    "isAdmin": true,
+    "id": "1c00b485-7a4d-42af-94bc-c4d6e1e54353"
+  }
+}
